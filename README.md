@@ -19,14 +19,13 @@ Following are some network representations:
 <h6 align="center">Holistically-Nested Edge Detection (<a href="https://www.overleaf.com/read/jxhnkcnwhfxp">view on Overleaf</a>)</h6>
 
 ## Getting Started
-1. Install the following packages on Ubuntu.
+1. **Install the following packages on Ubuntu.**
     * Ubuntu 16.04
         ```
         sudo apt-get install texlive-latex-extra
         ```
 
-    * Ubuntu 18.04.2
-Base on this [website](https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d), please install the following packages.
+    * Ubuntu 18.04.
         ```
         sudo apt-get install texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
         ```
@@ -35,7 +34,7 @@ Base on this [website](https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d), p
     1. Download and install [MikTeX](https://miktex.org/download).
     2. Download and install bash runner on Windows, recommends [Git bash](https://git-scm.com/download/win) or Cygwin(https://www.cygwin.com/)
 
-2. Execute the example as followed.
+2. **Execute the example as following.**
     ```
     cd pyexamples/
     bash ../tikzmake.sh test_simple
