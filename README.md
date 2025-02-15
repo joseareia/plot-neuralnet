@@ -40,7 +40,6 @@ Following are some network representations:
     bash ../tikzmake.sh test_simple
     ```
 
-## TODO
 
 ## Latex usage
 
