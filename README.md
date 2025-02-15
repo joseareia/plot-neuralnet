@@ -43,7 +43,6 @@ Following are some network representations:
 ## TODO
 
 - [X] Python interface
-- [ ] Add easy legend functionality
 
 ## Latex usage
 
