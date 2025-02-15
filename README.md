@@ -39,8 +39,7 @@ Following are some network representations:
     cd pyexamples/
     bash ../tikzmake.sh test_simple
     ```
-
-
+    
 ## Latex usage
 
 See [`examples`](examples) directory for usage.
