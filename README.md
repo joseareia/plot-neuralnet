@@ -45,7 +45,6 @@ Following are some network representations:
 - [X] Python interface
 - [ ] Add easy legend functionality
 - [ ] Add more layer shapes like TruncatedPyramid, 2DSheet etc
-- [ ] Add examples for RNN and likes.
 
 ## Latex usage
 
