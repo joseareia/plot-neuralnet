@@ -42,8 +42,6 @@ Following are some network representations:
 
 ## TODO
 
-- [X] Python interface
-
 ## Latex usage
 
 See [`examples`](examples) directory for usage.
